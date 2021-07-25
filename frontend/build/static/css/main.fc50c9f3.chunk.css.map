@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF,CAEA,KACE,kBAEF","file":"main.fc50c9f3.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\nbody {\n  background: #343a40;\n  \n}\n\n/*footer{\n  position: sticky;\n  bottom:0px;\n  right:0px;\n  left:0px;\n}*/"]}
